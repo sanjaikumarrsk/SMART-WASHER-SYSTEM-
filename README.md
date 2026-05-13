@@ -1,103 +1,97 @@
-# 🚀 SMART-ALERT
+# 🚀 SMART-WASHER-SYSTEM
 
-# 🌍 Intelligent AI-Based Emergency Detection & Alert System
+## 🌍 Intelligent IoT-Based Energy Efficient Washing Machine
 
-A smart AI-powered emergency detection and alert system designed for real-time monitoring, automated threat detection, and rapid emergency response using Deep Learning, Computer Vision, Python, and Flask.
+A smart and portable IoT-enabled washing machine system designed for **real-time monitoring**, **automated control**, and **energy optimization** using ESP32, smart sensors, ASP.NET, and SQL Server.
 
-The system continuously analyzes images and live streams to detect emergencies such as fire accidents, road accidents, and robbery situations to improve public safety and reduce emergency response time 🚨🔥
+The system continuously tracks important washing parameters such as **water level**, **cloth weight**, **power consumption**, and **water turbidity** to improve washing efficiency while reducing electricity and water wastage ⚡💧
 
-Integrated with smart alert services and real-time monitoring capabilities, the project focuses on building an intelligent and scalable AI-driven safety automation solution 📡🧠
+Integrated with a smart dashboard for analytics and remote monitoring, the project focuses on building a sustainable and intelligent home appliance automation solution 🧺📊
 
 ---
 
 # ✨ Key Features
 
-✅ Real-Time Emergency Detection  
-✅ Fire Detection using AI  
-✅ Accident Detection System  
-✅ Robbery & Threat Detection  
-✅ Image-Based AI Analysis  
-✅ Automated Alert Generation  
-✅ Smart Monitoring Dashboard  
-✅ Mobile Stream Client Support  
-✅ AI-Powered Safety Automation  
-✅ Real-Time Emergency Monitoring  
+✅ Real-Time Sensor Monitoring  
+✅ Smart Energy Consumption Tracking  
+✅ Automated Washing Operations  
+✅ Remote Monitoring & Control  
+✅ Water Usage Optimization  
+✅ Dashboard Analytics & Visualization  
+✅ IoT-Based Smart Automation  
+✅ Efficient Resource Management  
 
 ---
 
 # 🛠️ Technologies Used
 
 ## 💻 Software
+- ASP.NET (C#)
+- SQL Server
+- HTML
+- CSS
+- JavaScript
+- Power BI / Dashboard Tools
 
-Python  
-Flask  
-OpenCV  
-PyTorch  
-NumPy  
-HTML  
-CSS  
-JavaScript  
-
----
-
-## 🤖 AI Technologies
-
-Deep Learning  
-Computer Vision  
-CNN-Based Classification  
-Image Processing  
-Real-Time Prediction Models  
+## 🔌 Hardware
+- ESP32
+- Load Cell + HX711
+- Ultrasonic Sensor
+- Turbidity Sensor
+- ACS712 Current Sensor
+- Relay Module
+- Water Pump
+- Portable Washing Motor
 
 ---
 
 # ⚙️ System Workflow
 
-1️⃣ Images or live streams are collected  
-2️⃣ AI models process visual data  
-3️⃣ Emergency patterns are detected  
-4️⃣ System classifies emergency events  
-5️⃣ Alert services generate notifications  
-6️⃣ Dashboard displays monitoring results  
-7️⃣ Users receive emergency alerts  
+1️⃣ Sensors collect live washing machine data  
+2️⃣ ESP32 processes sensor readings  
+3️⃣ Data is transmitted through WiFi  
+4️⃣ Backend validates and stores information  
+5️⃣ SQL Server manages washing records  
+6️⃣ Dashboard displays analytics in real time  
+7️⃣ User controls are sent back for automation  
 
 ---
 
 # 📊 Core Modules
 
-🔹 Emergency Detection Module  
-🔹 Image Processing Module  
-🔹 Alert Generation Module  
-🔹 Web Monitoring Dashboard  
-🔹 Mobile Stream Module  
-🔹 AI Model Training Module  
+🔹 Sensor Data Collection Module  
+🔹 Data Processing Module  
+🔹 Database Management Module  
+🔹 IoT Communication Module  
+🔹 User Interface Dashboard  
+🔹 Control & Automation Module  
 
 ---
 
 # 🎯 Project Objectives
 
-Improve public safety 🚨  
-Reduce emergency response time ⏱️  
-Enable intelligent threat detection 🧠  
-Automate emergency monitoring 📡  
-Build scalable AI safety systems 🌍  
+- Reduce electricity consumption ⚡
+- Minimize water wastage 💧
+- Enable smart appliance monitoring 📡
+- Improve washing efficiency 🧺
+- Promote sustainable automation 🌱
 
 ---
 
 # 🔮 Future Enhancements
 
-🚀 Real-Time CCTV Integration  
-📱 Mobile Application Deployment  
-☁️ Cloud-Based Monitoring  
-📡 GPS Emergency Tracking  
-🧠 Advanced AI Prediction Models  
-🔔 Instant Alert Notification System  
+🚀 AI-Based Washing Optimization  
+📱 Mobile Application Integration  
+☁️ Cloud Database Connectivity  
+🎙️ Voice Assistant Support  
+🧠 Predictive Maintenance System  
 
 ---
 
 # 📌 Conclusion
 
-This project demonstrates an intelligent AI-powered emergency detection and monitoring system capable of real-time threat analysis, automated alert generation, and deep learning-based emergency classification. The integration of AI, Computer Vision, Flask, and Deep Learning technologies creates a scalable and smart public safety solution for modern environments.
+This project demonstrates an intelligent IoT-powered washing machine system capable of real-time monitoring, smart automation, and efficient resource management. The integration of ESP32, IoT sensors, ASP.NET, and SQL Server creates a scalable and sustainable smart appliance solution for modern environments.
 
 ---
 
-# ⭐ AI Safety • Smart Monitoring • Real-Time Emergency Detection
+# ⭐ Smart Automation • Energy Optimization • Real-Time Monitoring
